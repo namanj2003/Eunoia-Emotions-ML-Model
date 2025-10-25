@@ -25,6 +25,8 @@ Short description: Flask-based REST API for multi-label emotion detection (28 Go
    ```bash
    python application.py
    ```
+
+## Response Example (`/analyze`)
 ```json
 {
   "primary_emotion": "joy",
