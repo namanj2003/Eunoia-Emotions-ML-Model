@@ -1,6 +1,6 @@
 # Eunoia ML Service
 
-Short description: Flask-based REST API for multi-label emotion detection (28 GoEmotions categories), tag generation, and batch mood analytics used by the Eunoia app.
+Flask-based REST API for multi-label emotion detection (28 GoEmotions categories), tag generation, and batch mood analytics used by the Eunoia app.
 
 ## Tech Stack
 - Python 3.x, Flask
